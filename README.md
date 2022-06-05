@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1> <iframe src="https://giphy.com/embed/3ohs87hCLruTwBPddK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>, <h1>I'm Tayyab Aman</h1>
+<h1 align="center">Hi</h1> <img src="https://giphy.com/embed/3ohs87hCLruTwBPddK" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>, I'm Tayyab Aman</h1>
 <h3 align="center">I'm a passionate Back-end Developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-it&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-it" /> </p>
