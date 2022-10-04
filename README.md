@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tayyabaman2" target="blank"><img src="https://img.shields.io/twitter/follow/tayyabaman2?logo=twitter&style=for-the-badge" alt="tayyabaman2" /></a> </p>
 
-- 💬 Ask me about **Nodejs, Express JS, SQL, MongoDB**
+- 💬 Ask me about **Nodejs, Express JS, SQL, MongoDB, NestJS, Google Cloud Platform**
 
 - 📫 How to reach me **tayyabaman80@gmail.com**
 
