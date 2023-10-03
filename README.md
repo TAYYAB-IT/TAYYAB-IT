@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tayyabaman80@gmail.com**
 
-- 📄 Know about my experiences [http://tayyab-it.me](http://tayyab-it.me)
+- 📄 Know about my experiences [Click Here](https://tayyab-me.netlify.app)
 
 - ⚡ Problem Solving **I Think No More Fun For me But in Programming**
 
